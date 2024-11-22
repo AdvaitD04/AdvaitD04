@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React,Node,Express,Posgressql**
 
-- 📫 How to reach me **advaitdesai2004@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/advait-desai-25aa4a25b/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
